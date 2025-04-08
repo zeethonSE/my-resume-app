@@ -5,7 +5,7 @@ function Header(){
     return(
         <div className="flex items-center bg-black rounded-xl">
             <div className="w-1/2">
-                <img src="./src/assets/SAISAI-developer.png" alt="SAI SAI Developer Logo" />
+                <img src="./src/assets/saisai_logo_transparent.png" alt="SAI SAI Developer Logo" />
             </div>
             {/** Address */}
             {resume.map((rm, index) => (
