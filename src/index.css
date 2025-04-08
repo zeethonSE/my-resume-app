@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+img {
+  height: 200px;
+  border-radius: 5%;
+}
+
+div{
+  padding: 10px;
+  margin: 10px;
+}
+
+h3 {color: rgb(41, 131, 99);}
+h4,span {color:rgb(34, 133, 148)}
+p {color: rgb(118, 101, 6);}
