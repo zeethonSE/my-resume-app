@@ -8,12 +8,12 @@
     "icons": [
       {
         "src": "/icons/saisai_logo_transparent.png",
-        "sizes": "192x192",
+        "sizes": "1024X1024",
         "type": "image/png"
       },
       {
         "src": "/icons/saisai_logo_transparent.png",
-        "sizes": "512x512",
+        "sizes": "1024X1024",
         "type": "image/png"
       }
     ]
