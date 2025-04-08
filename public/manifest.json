@@ -7,12 +7,12 @@
     "theme_color": "#ff6347",
     "icons": [
       {
-        "src": "/icons/saisai-sm-icon.png",
+        "src": "/icons/saisai_logo_transparent.png",
         "sizes": "192x192",
         "type": "image/png"
       },
       {
-        "src": "/icons/saisai-md-icon.png",
+        "src": "/icons/saisai_logo_transparent.png",
         "sizes": "512x512",
         "type": "image/png"
       }
