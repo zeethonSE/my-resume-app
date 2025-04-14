@@ -1,2 +1,16 @@
+# Environment variables
+.env
+
+# Dependencies
 node_modules/
+
+# Build output
 dist/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+#logo
+public/icons/saisai_logo_transparent.png

@@ -1,12 +1,51 @@
-# React + Vite
+🔗 Live Demo
+👉 [View the live app](https://zeethonse.github.io/my-resume-app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📂 Project Structure
+This is a React-based single-page application featuring:
 
-Currently, two official plugins are available:
+About section
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Skills display
 
-## Expanding the ESLint configuration
+Project showcase with GitHub links
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Education & experience
+
+Fully responsive layout with modern styling
+
+
+🛠️ Built With
+React (Vite)
+
+Tailwind CSS (or your CSS framework)
+
+GitHub Pages (for deployment)
+
+Custom components
+
+
+📦 Installation
+To run locally:
+git clone https://github.com/zeethonSE/my-resume-app.git
+cd my-resume-app
+npm install
+npm run dev
+Then visit: http://localhost:5173
+
+🚀 Deployment
+The app is deployed via GitHub Pages using the gh-pages branch. To deploy manually:
+npm run build
+npm run deploy
+
+Ensure your vite.config.js has the correct base set:
+base: '/my-resume-app/'
+
+🙋‍♂️ Author
+Sai Sai
+💼 Web Developer
+📧 zeethon0@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/ssaiwd25)
+
+📄 License
+This project is open source and available under the [MIT License.](MIT-LICENSE)

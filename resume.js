@@ -4,7 +4,6 @@ const resume = [
         address: {
             city: "Bangkok",
             country: "Thailand",
-            phone: "+66 55218535",
             email: "zeethon0@gmail.com",
             linkedIn: "https://www.linkedin.com/in/ssaiwd25/",
             gitHub: "https://github.com/zeethonSE"
