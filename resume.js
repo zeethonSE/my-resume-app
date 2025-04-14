@@ -21,17 +21,17 @@ const resume = [
             {
                 name: "My Blog",
                 description: "Developed a full-stack web application using React.js and Node.js.",
-                link: "GitHub-Link"   
+                link: "https://github.com/zeethonSE/my-blog"   
             },
             {
                 name: "The Cocktail DB",
                 description: "Optimized UI/UX for a responsive and mobile-friendly experience.",
-                link: "GitHub-Link"   
+                link: "https://github.com/zeethonSE/the-cocktail-db"   
             },
             {
-                name: "To Do List",
+                name: "uNote",
                 description: "Implemented authentication and database management with PostgreSQL.",
-                link: "GitHub-Link",   
+                link: "https://github.com/zeethonSE/u-note",   
             },
         ],
         education:[
