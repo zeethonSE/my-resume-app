@@ -1,13 +1,13 @@
 const resume = [
     {
-        name: "AJ",
+        name: "SAI SAI",
         address: {
             city: "Bangkok",
             country: "Thailand",
-            phone: "+66 12345678",
-            email: "aj@gmail.com",
-            linkedIn: "aj@linkedin",
-            gitHub: "aj@github"
+            phone: "+66 55218535",
+            email: "zeethon0@gmail.com",
+            linkedIn: "https://www.linkedin.com/in/ssaiwd25/",
+            gitHub: "https://github.com/zeethonSE"
         },
         profile: "Passionate and motivated full-stack web developer with hands-on experience in HTML5, CSS, JavaScript, React.js, Node.js, and PostgreSQL. Enthusiastic about building and optimizing web applications while continuously learning new technologies. Strong problem-solving skills, adaptability, and teamwork. Seeking an internship to gain industry experience and contribute to a development team.",
         technicalSkills: {
