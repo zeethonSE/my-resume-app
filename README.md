@@ -26,6 +26,7 @@ A responsive personal portfolio built with React. This site showcases my resume,
 
 ## ✨ Features
 
+- Display mode (Black or White)
 - Responsive design
 - Smooth scrolling and navigation
 - Project highlights section
