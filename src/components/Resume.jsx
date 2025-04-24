@@ -3,7 +3,7 @@ import resume from "../../resume";
 
 function Resume() {
     return (
-        <div className="flex flex-col md:flex-row justify-center p-2 h-full">  
+        <div className="flex flex-col md:flex-row justify-center p-2 h-full"> 
             {resume.map((rm, index) => (
                 <div key={index} className="w-full md:w-1/2 p-4"> 
                     {/** About Me */}
@@ -43,7 +43,7 @@ function Resume() {
                 <div key={index} className="w-full md:w-1/2 p-4"> 
                     {/** Projects */}
                     <h3 className="text-xl text-center font-semibold shadow-lg shadow-gray-700 p-3 rounded-lg">PROJECTS</h3>
-                    <div className="space-y-4">
+                    <div className="space-y-2">
                         {rm.projects.map((project, i) => (
                             <div key={i}>
                                 <h4 className="text-l font-semibold">{project.name}</h4>
@@ -75,12 +75,12 @@ function Resume() {
                     </div>
                     
                     {/** References */}
-                    <h3 className="text-xl text-center font-semibold shadow-lg shadow-gray-700 p-3 rounded-lg">REFERENCE</h3>
+                    {/* <h3 className="text-xl text-center font-semibold shadow-lg shadow-gray-700 p-3 rounded-lg">REFERENCE</h3>
                     <div className="text-center space-y-2">
                         <p>{rm.reference.employer}</p>
                         <p>{rm.reference.phone}</p>
                         <p>{rm.reference.email}</p>
-                    </div>
+                    </div> */}
                 </div>
             ))}
         </div>
