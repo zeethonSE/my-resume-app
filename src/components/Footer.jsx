@@ -4,7 +4,7 @@ function Footer(){
     return(
         <div className="bg-black text-center text-cyan-500 rounded-lg">
             <footer>
-                Sai Sai Resume © {new Date().getFullYear()}
+                Copyright © {new Date().getFullYear()} Sai Sai Resume
             </footer>
         </div>
     )
