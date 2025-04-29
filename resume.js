@@ -8,12 +8,13 @@ const resume = [
             linkedIn: "https://www.linkedin.com/in/ssaiwd25/",
             gitHub: "https://github.com/zeethonSE"
         },
-        profile: "Passionate and motivated full-stack web developer with hands-on experience in HTML5, CSS, JavaScript, React.js, Node.js, and PostgreSQL. Enthusiastic about building and optimizing web applications while continuously learning new technologies. Strong problem-solving skills, adaptability, and teamwork. Seeking an internship to gain industry experience and contribute to a development team.",
+        profile: `I'm a self-taught Fullstack Web Developer who loves solving problems and building practical web applications. I've completed several fullstack projects using React, Node.js, PostgreSQL, and deployed them on Vercel and Render.
+            With a strong passion for technology and learning, I'm focused on gaining real-world experience and contributing to meaningful software projects. I aim to grow as a developer and continue building scalable, user-friendly applications.`,
         technicalSkills: {
-            frondend: " HTML5, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js",
+            frondend: "HTML, CSS, JavaScript, React, Tailwind, Vite",
             backend: "Node.js, Express.js",
-            database: " PostgreSQL, MySQL",
-            versionControl: "Git, GitHub",
+            database: " PostgreSQL",
+            versionControl: "Git, GitHub, Vercel, Render",
             otherSkills: " RESTful APIs, Responsive Web Design, Debugging & Testing"
         },
         projects: [
@@ -96,12 +97,7 @@ const resume = [
             {a: "Problem-Solving | Teamwork | Adaptability | Computer Literacy"},
             {b: "Open to relocation and remote opportunities."},
             {c: "Actively improving coding skills through personal projects and open-source contributions."},
-        ],
-        reference:{
-            employer: "Mr. Lee - Trust Scientific International",
-            phone: "+855 988 60819",
-            email: "raksmey.trustscientific@gmail.com"
-        }
+        ]
     }
 ]
 
