@@ -9,7 +9,8 @@ const resume = [
             gitHub: "https://github.com/zeethonSE"
         },
         profile: `I'm a self-taught Fullstack Web Developer who loves solving problems and building practical web applications. I've completed several fullstack projects using React, Node.js, PostgreSQL, and deployed them on Vercel and Render.
-            With a strong passion for technology and learning, I'm focused on gaining real-world experience and contributing to meaningful software projects. I aim to grow as a developer and continue building scalable, user-friendly applications.`,
+            
+                With a strong passion for technology and learning, I'm focused on gaining real-world experience and contributing to meaningful software projects. I aim to grow as a developer and continue building scalable, user-friendly applications.`,
         technicalSkills: {
             frondend: "HTML, CSS, JavaScript, React, Tailwind, Vite",
             backend: "Node.js, Express.js",
