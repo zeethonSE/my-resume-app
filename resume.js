@@ -8,9 +8,8 @@ const resume = [
             linkedIn: "https://www.linkedin.com/in/ssaiwd25/",
             gitHub: "https://github.com/zeethonSE"
         },
-        profile: `I'm a self-taught Fullstack Web Developer who loves solving problems and building practical web applications. I've completed several fullstack projects using React, Node.js, PostgreSQL, and deployed them on Vercel and Render.
-            
-                With a strong passion for technology and learning, I'm focused on gaining real-world experience and contributing to meaningful software projects. I aim to grow as a developer and continue building scalable, user-friendly applications.`,
+        profile: `I'm a self-taught Fullstack Web Developer who loves solving problems and building practical web applications. I've completed several fullstack projects using React, Node.js, PostgreSQL, and deployed them on Vercel and Render. 
+        \nWith a strong passion for technology and learning, I'm focused on gaining real-world experience and contributing to meaningful software projects. I aim to grow as a developer and continue building scalable, user-friendly applications.`,
         technicalSkills: {
             frondend: "HTML, CSS, JavaScript, React, Tailwind, Vite",
             backend: "Node.js, Express.js",
@@ -21,17 +20,17 @@ const resume = [
         projects: [
             {
                 name: "My Blog",
-                description: "Developed a full-stack web application using React.js and Node.js.",
+                description: "This is a fullstack Blog Application built with React.js (Vite) for the frontend and Node.js (Express.js) for the backend.",
                 link: "https://github.com/zeethonSE/my-blog"   
             },
             {
                 name: "The Cocktail DB",
-                description: "Optimized UI/UX for a responsive and mobile-friendly experience.",
+                description: "A sleek React app that allows users to explore various cocktails using the CocktailDB API. Users can search, view details, and discover random drinks in an elegant interface.",
                 link: "https://github.com/zeethonSE/the-cocktail-db"   
             },
             {
                 name: "uNote",
-                description: "Implemented authentication and database management with PostgreSQL.",
+                description: "U-Note is a fullstack note-taking app built with React (Vite) and Node.js (Express), connected to a PostgreSQL database hosted on Render.",
                 link: "https://github.com/zeethonSE/u-note",   
             },
         ],
