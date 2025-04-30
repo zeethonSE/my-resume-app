@@ -1,4 +1,6 @@
-### My Resume Portfolio
+![my resume banner](./public/icons/saisai_logo_transparent.png)
+
+# My Resume Portfolio
 
 A responsive personal portfolio built with React. This site showcases my resume, projects, and contact information in a clean and professional layout.
 
@@ -10,27 +12,39 @@ A responsive personal portfolio built with React. This site showcases my resume,
 ## 📸 Screenshots
 
 ![Demo Screenshot](./assets/my-resume-lg-dark.webp)
+
 ![Demo Screenshot](./assets/my-resume-lg-white.webp)
+
 ![Demo Screenshot](./assets/my-resume-sm-dark.webp)
+
 ![Demo Screenshot](./assets/my-resume-sm-white.webp)
 
 
 ## 🔧 Tech Stack
 
 - React.js
+
 - HTML5 & CSS3
+
 - JavaScript
+
 - Bootstrap (or Tailwind, if used)
+
 - Vercel (Deployment)
 
 
 ## ✨ Features
 
 - Display mode (Black or White)
+
 - Responsive design
+
 - Smooth scrolling and navigation
+
 - Project highlights section
+
 - Resume download (if available)
+
 - Contact form or social media links
 
 
@@ -96,4 +110,4 @@ Sai Sai
 
 # 📄 License
 
-This project is open source and available under the [MIT License.](MIT-LICENSE)
+This project is open source and available under the [MIT License.](./LICENSE.txt)
