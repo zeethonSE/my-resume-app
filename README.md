@@ -34,12 +34,6 @@ A responsive personal portfolio built with React. This site showcases my resume,
 - Contact form or social media links
 
 
-
-git clone https://github.com/zeethonSE/my-resume-app.git
-cd my-resume-app
-npm install
-npm run dev
-
 ## 📂 Project Structure
 
 This is a React-based single-page application featuring:
@@ -75,28 +69,31 @@ cd my-resume-app
 npm install
 npm run dev
 ```
-
 Then visit: http://localhost:5173/my-resume-app/
 
 
 ## 🚀 Deployment
 
 The app is deployed via GitHub Pages using the gh-pages branch. To deploy manually:
-
+```bash
 npm run build
 npm run deploy
-
+```
 Ensure your vite.config.js has the correct base set:
 base: '/my-resume-app/'
 
 
-## 🙋‍♂️ Author
+# 🙋‍♂️ Author
 
 Sai Sai
+
 💼 Web Developer
+
 📧 zeethon0@gmail.com
+
 🔗 [LinkedIn](https://linkedin.com/in/ssaiwd25)
 
 
-📄 License
+# 📄 License
+
 This project is open source and available under the [MIT License.](MIT-LICENSE)
