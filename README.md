@@ -1,4 +1,4 @@
-![my resume banner](./public/icons/saisai_logo_transparent.png)
+![my resume banner](./assets/saisai_logo_512x512.png)
 
 # My Resume Portfolio
 
