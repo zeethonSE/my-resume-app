@@ -37,7 +37,7 @@ function Resume() {
                         ))}
                     </div>
                     <a
-                        href="./assets/SSai-WD-Resume-2025.pdf"
+                        href="./icons/SSai-WD-Resume-2025.pdf"
                         download="SSai-WD-Resume-2025.pdf"
                         target="_blank"
                         rel="noopener noreferrer"
