@@ -1,11 +1,6 @@
 @import "tailwindcss";
 @custom-variant dark (&:where(.dark, .dark *));
 
-/* img {
-  height: 200px;
-  border-radius: 5%;
-} */
-
 div{
   padding: 10px;
 }
