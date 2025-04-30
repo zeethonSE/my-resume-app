@@ -9,10 +9,10 @@ A responsive personal portfolio built with React. This site showcases my resume,
 
 ## 📸 Screenshots
 
-![Demo Screenshot](./assets/ssResume-lg-black.png)
-![Demo Screenshot](./assets/ssResume-lg-white.png)
-![Demo Screenshot](./assets/ssResume-sm-black.png)
-![Demo Screenshot](./assets/ssResume-sm-white.png)
+![Demo Screenshot](./assets/my-resume-lg-dark.webp)
+![Demo Screenshot](./assets/my-resume-lg-white.webp)
+![Demo Screenshot](./assets/my-resume-sm-dark.webp)
+![Demo Screenshot](./assets/my-resume-sm-white.webp)
 
 
 ## 🔧 Tech Stack
